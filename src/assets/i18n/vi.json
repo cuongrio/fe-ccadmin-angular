@@ -1,0 +1,14 @@
+{
+  "sidebar": {
+    "home": "Tổng quan",
+    "category": "Danh mục",
+    "product": {
+      "main-nav": "Hàng hóa",
+      "products": "Sản phẩm thường",
+      "variant-product": "Sản phẩm biến thể"
+    },
+    "Multimedia": "Multimedia",
+    "Merchant": "Nhà cung cấp",
+    "Offer": "Offer"
+  }
+}
